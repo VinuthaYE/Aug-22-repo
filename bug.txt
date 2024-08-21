@@ -1,1 +1,5 @@
 bug fixing document
+
+completed the bug issue
+
+close the case
