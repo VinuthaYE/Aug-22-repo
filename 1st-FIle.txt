@@ -4,5 +4,10 @@ my pacakge ia 10LPA
 I am super excited
 all the best
 hardwork always pays
+<<<<<<< HEAD
 
 good morning 
+=======
+good morning
+welcome to the new career
+>>>>>>> 7748292f0cb53e6a5ba95f134de5faeb09f06dcf
